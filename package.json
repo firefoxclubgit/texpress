@@ -1,0 +1,25 @@
+{
+  "name": "noobnode",
+  "version": "1.0.0",
+  "description": "This is my first node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tushararora/noobnode"
+  },
+  "keywords": [
+    "noob",
+    "node",
+    "first",
+    "app"
+  ],
+  "author": "Tushar Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushararora/noobnode/issues"
+  },
+  "homepage": "https://github.com/tushararora/noobnode"
+}
